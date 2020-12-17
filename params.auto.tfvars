@@ -1,4 +1,4 @@
-t#Variable overrides 
+#Variable overrides 
 #rg_name                   = ""
 #cluster_name              = ""
 aks_version               = "1.19.3"
